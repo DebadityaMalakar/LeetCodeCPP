@@ -1,4 +1,4 @@
 # LeetCode
 
-[X] Sqrt(x)
-[X] Climbing Stairs
+- [X] Sqrt(x)
+- [X] Climbing Stairs
