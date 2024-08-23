@@ -1,0 +1,3 @@
+# LeetCode
+
+[ x ] Sqrt(x)
